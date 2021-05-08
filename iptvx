@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0,FRENCH LOVER_By : dailyfreeiptv.blogspot.com
 http://web24.live:8080/6657847853/UecFX5R79a/9563
 #EXTINF:0,DORCEL
@@ -22,8 +24,6 @@ http://primestreams.tv:826/SbMX4968h/TZwdW6RX0K/110230
 http://primestreams.tv:826/SbMX4968h/TZwdW6RX0K/110231
 #EXTINF:0,XXX: Private TV | UHD_By : mrcrackpro.blogspot.com
 http://primestreams.tv:826/SbMX4968h/TZwdW6RX0K/110232
-#EXTINF:0,XXX | ALBA XXX 1_By : mrcrackpro.blogspot.com
-http://web24.live:8080/6657847853/UecFX5R79a/8409
 #EXTINF:0,XXX | CANDY TV
 http://web24.live:8080/6657847853/UecFX5R79a/12208
 #EXTINF:0,XXX | CANDY TV
@@ -34,5 +34,4 @@ http://diretogo.com:80/marcia2021/2021marcia/10054478
 http://web24.live:8080/6657847853/UecFX5R79a/13470
 #EXTINF:0,superone_Website : mrcrackpro.blogspot.com
 http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="Entertainment",Fashion TV Midnite
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
