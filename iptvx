@@ -1,5 +1,15 @@
 #EXTINF:0,Jasmin.tv 
 http://gooserace.xyz:2052/donna/donna123/2491869
+#EXTINF:-1, FashionTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1,TasteMade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1, & Prive HD
+https://iptvcat.com/my_list/s/577fa1d6d5cba1fe15588484147ad0a6.m3u8
+#EXTINF:-1, & Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+
 
 #EXTINF:0,DORCEL
 http://pvserver.link:8080/mkZ5D3DteY/6178378546/87419
