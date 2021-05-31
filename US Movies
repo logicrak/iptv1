@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, & Prive HD
+https://iptvcat.com/my_list/s/577fa1d6d5cba1fe15588484147ad0a6.m3u8
+#EXTINF:-1, & Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,US: 5 StarMax FHD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17202
 #EXTINF:-1,US: 3ABN Kids Network
