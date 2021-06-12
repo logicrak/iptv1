@@ -7,17 +7,8 @@ http://ky-iptv.com:25461/funtimes/funtimes/773427
 #EXTINF:0,XXX: MIAMI TV LATINO
 http://ky-iptv.com:25461/funtimes/funtimes/773428
 
-
-#EXTINF:-1,IN: sony pix HD
-http://ultrontv.xyz:80/morgan/morgan123/47081
-#EXTINF:-1,IN: Movies Now HD
-http://ultrontv.xyz:80/morgan/morgan123/47110
-#EXTINF:-1,IN:VIP Star movies
-http://ultrontv.xyz:80/morgan/morgan123/47025
-#EXTINF:-1,IN: Star world HD
-http://ultrontv.xyz:80/morgan/morgan123/47083
-#EXTINF:-1,IN: Star world premier HD
-http://ultrontv.xyz:80/morgan/morgan123/47084
+#EXTINF:-1, MotorCyclist 
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1,&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, &Flix HD
