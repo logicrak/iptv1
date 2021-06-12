@@ -13,120 +13,292 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,US | A&E HD
-http://globalsystems.me:8880/Philbell/775623143/63342
-#EXTINF:-1,US | ADULT SWIM
-http://globalsystems.me:8880/Philbell/775623143/2173993
-#EXTINF:-1,US | AMC HD
-http://globalsystems.me:8880/Philbell/775623143/63344
-#EXTINF:-1,US | Bravo HD
-http://globalsystems.me:8880/Philbell/775623143/2173557
-#EXTINF:-1,US | Buzzr
-http://globalsystems.me:8880/Philbell/775623143/2172035
-#EXTINF:-1,US | E! Entertainment HD
-http://globalsystems.me:8880/Philbell/775623143/63379
-#EXTINF:-1,US | Fuse HD
-http://globalsystems.me:8880/Philbell/775623143/63386
-#EXTINF:-1,US | FX HD
-http://globalsystems.me:8880/Philbell/775623143/63387
-#EXTINF:-1,US | FXM HD
-http://globalsystems.me:8880/Philbell/775623143/63389
-#EXTINF:-1,US | FXX HD
-http://globalsystems.me:8880/Philbell/775623143/63388
-#EXTINF:-1,US | FYI HD
-http://globalsystems.me:8880/Philbell/775623143/63390
-#EXTINF:-1,US | Game Show Network 
-http://globalsystems.me:8880/Philbell/775623143/2643927
-#EXTINF:-1,US | Hallmark Channel HD
-http://globalsystems.me:8880/Philbell/775623143/81462
-#EXTINF:-1,US | Hallmark Drama HD
-http://globalsystems.me:8880/Philbell/775623143/63393
-#EXTINF:-1,US | Hallmark Movies and Mysteries HD
-http://globalsystems.me:8880/Philbell/775623143/63394
-#EXTINF:-1,US | HGTV HD
-http://globalsystems.me:8880/Philbell/775623143/63395
-#EXTINF:-1,US | USA Network HD
-http://globalsystems.me:8880/Philbell/775623143/63440
-#EXTINF:-1,US | Cinemax HD
-http://globalsystems.me:8880/Philbell/775623143/112551
-#EXTINF:-1,US | Cinemax 5StarMax
-http://globalsystems.me:8880/Philbell/775623143/1389929
-#EXTINF:-1,US | Cinemax MoreMax HD
-http://globalsystems.me:8880/Philbell/775623143/112553
-#EXTINF:-1,US | Cinemax MovieMax HD
-http://globalsystems.me:8880/Philbell/775623143/112554
-#EXTINF:-1,US | Cinemax OuterMax HD
-http://globalsystems.me:8880/Philbell/775623143/112555
-#EXTINF:-1,US | Cinemax ThrillerMax HD
-http://globalsystems.me:8880/Philbell/775623143/112556
-#EXTINF:-1,US | Crave 1
-http://globalsystems.me:8880/Philbell/775623143/2171656
-#EXTINF:-1,US | Crave 2
-http://globalsystems.me:8880/Philbell/775623143/2171657
-#EXTINF:-1,US | Crave 3
-http://globalsystems.me:8880/Philbell/775623143/2171658
-#EXTINF:-1,US | Crave 4
-http://globalsystems.me:8880/Philbell/775623143/2171659
-#EXTINF:-1,US | Epix 2 HD
-http://globalsystems.me:8880/Philbell/775623143/112558
-#EXTINF:-1,US | Epix Drive-In HD
-http://globalsystems.me:8880/Philbell/775623143/112559
-#EXTINF:-1,US | Epix HD
-http://globalsystems.me:8880/Philbell/775623143/112557
-#EXTINF:-1,US | Epix Hits HD
-http://globalsystems.me:8880/Philbell/775623143/112560
-#EXTINF:-1,US | HBO HD
-http://globalsystems.me:8880/Philbell/775623143/112561
-#EXTINF:-1,US | HBO WEST
-http://globalsystems.me:8880/Philbell/775623143/2641613
-#EXTINF:-1,US | HBO 2 HD
-http://globalsystems.me:8880/Philbell/775623143/112562
-#EXTINF:-1,US | HBO Comedy HD
-http://globalsystems.me:8880/Philbell/775623143/112563
-#EXTINF:-1,US | HBO Family HD
-http://globalsystems.me:8880/Philbell/775623143/112564
-#EXTINF:-1,US | HBO Signature HD
-http://globalsystems.me:8880/Philbell/775623143/112565
-#EXTINF:-1,US | HBO Zone HD
-http://globalsystems.me:8880/Philbell/775623143/112566
-#EXTINF:-1,US | Starz HD
-http://globalsystems.me:8880/Philbell/775623143/112576
-#EXTINF:-1,US | Starz WEST
-http://globalsystems.me:8880/Philbell/775623143/2641615
-#EXTINF:-1,US | Showtime Women HD
-http://globalsystems.me:8880/Philbell/775623143/112574
-#EXTINF:-1,US | Starz Cinema HD
-http://globalsystems.me:8880/Philbell/775623143/112577
-#EXTINF:-1,US | Starz Comedy HD
-http://globalsystems.me:8880/Philbell/775623143/112578
-#EXTINF:-1,US | Starz Edge HD
-http://globalsystems.me:8880/Philbell/775623143/112579
-#EXTINF:-1,US | Starz Encore Action HD
-http://globalsystems.me:8880/Philbell/775623143/112581
-#EXTINF:-1,US | Starz Encore HD
-http://globalsystems.me:8880/Philbell/775623143/112580
-#EXTINF:-1,US | Starz Encore Suspense HD
-http://globalsystems.me:8880/Philbell/775623143/112582
-#EXTINF:-1,US | Starz Encore Westerns HD
-http://globalsystems.me:8880/Philbell/775623143/112583
+#EXTM3U
+#EXTINF:-1,US: 5 STARMAX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/329.ts
+#EXTINF:-1,US: ACTIONMAX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/330.ts
+#EXTINF:-1,US: CINEMAX EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/331.ts
+#EXTINF:-1,US: OUTERMAX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/332.ts
+#EXTINF:-1,US: MOREMAX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/333.ts
+#EXTINF:-1,US: THRILLERMAX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/334.ts
+#EXTINF:-1,US: EPIX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/335.ts
+#EXTINF:-1,US: EPIX 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/336.ts
+#EXTINF:-1,US: EPIX DRIVE-IN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/337.ts
+#EXTINF:-1,US: EPIX HITS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/338.ts
+#EXTINF:-1,US: HBO EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/339.ts
+#EXTINF:-1,US: HBO 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/340.ts
+#EXTINF:-1,US: HBO COMEDY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/341.ts
+#EXTINF:-1,US: HBO FAMILY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/342.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/343.ts
+#EXTINF:-1,US: HBO PLUS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/344.ts
+#EXTINF:-1,US: HBO WEST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/345.ts
+#EXTINF:-1,US: HBO ZONE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/346.ts
+#EXTINF:-1,US: HDNET MOVIES
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/347.ts
+#EXTINF:-1,US: RETRO PLEX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/350.ts
+#EXTINF:-1,US: SHOWTIME EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/351.ts
+#EXTINF:-1,US: SHOWTIME WEST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/352.ts
+#EXTINF:-1,US: SHOWTIME SHOWCASE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/353.ts
+#EXTINF:-1,US: SHOWTIME EXTREME
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/354.ts
+#EXTINF:-1,US: SHOWTIME FAMILY ZONE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/355.ts
+#EXTINF:-1,US: SHOWTIME NEXT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/356.ts
+#EXTINF:-1,US: SHOWTIME WOMEN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/357.ts
+#EXTINF:-1,US: STARZ CINEMA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/358.ts
+#EXTINF:-1,US: STARZ EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/359.ts
+#EXTINF:-1,US: STARZ WEST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/360.ts
+#EXTINF:-1,US: STARZ COMEDY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/361.ts
+#EXTINF:-1,US: STARZ EDGE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/362.ts
+#EXTINF:-1,US: STARZENCORE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/363.ts
+#EXTINF:-1,US: Starz Encore West
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/364.ts
+#EXTINF:-1,US: STARZENCORE ACTION
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/365.ts
+#EXTINF:-1,US: STARZ ENCORE CLASSIC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/366.ts
+#EXTINF:-1,US: STARZ ENCORE FAMILY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/367.ts
+#EXTINF:-1,US: STARZENCORE SUSPENSE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/368.ts
+#EXTINF:-1,US: STARZENCORE WESTERNS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/369.ts
+#EXTINF:-1,US: STARZ IN BLACK
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/370.ts
+#EXTINF:-1,US: STARZ KIDS & FAMILY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/371.ts
+#EXTINF:-1,US: SHOWTIME BET
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/372.ts
+#EXTINF:-1,US: SHOWTIME 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/373.ts
+#EXTINF:-1,US: THE MOVIE CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/374.ts
+#EXTINF:-1,US: A&E
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/375.ts
+#EXTINF:-1,US: ABC HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/376.ts
+#EXTINF:-1,US: ABC News
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/377.ts
+#EXTINF:-1,US: AMC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/378.ts
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/379.ts
+#EXTINF:-1,US: ANIMAL PLANET
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/380.ts
+#EXTINF:-1,US: AXS TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/381.ts
+#EXTINF:-1,US: BBC AMERICA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/382.ts
+#EXTINF:-1,US: BET EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/383.ts
+#EXTINF:-1,US: BET HER
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/384.ts
+#EXTINF:-1,US: BET JAMS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/385.ts
+#EXTINF:-1,US: BET SOUL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/386.ts
+#EXTINF:-1,US: BET WEST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/387.ts
+#EXTINF:-1,US: BLOOMBERG
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/388.ts
+#EXTINF:-1,US: BOUNCE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/389.ts
+#EXTINF:-1,US: BRAVO EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/390.ts
+#EXTINF:-1,US: BUZZR
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/391.ts
+#EXTINF:-1,US: CBSN HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/393.ts
+#EXTINF:-1,US: CHEDDAR BUSINESS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/394.ts
+#EXTINF:-1,US: CHEDDAR NEWS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/395.ts
+#EXTINF:-1,US: CINEMAX EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/396.ts
+#EXTINF:-1,US: CMT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/397.ts
+#EXTINF:-1,US: CNBC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/398.ts
+#EXTINF:-1,US: CNBC WORLD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/399.ts
+#EXTINF:-1,US: CNN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/400.ts
+#EXTINF:-1,US: COMEDY CENTRAL EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/401.ts
+#EXTINF:-1,US: COMET
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/402.ts
+#EXTINF:-1,US: COOKING CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/403.ts
+#EXTINF:-1,US: COZI TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/404.ts
+#EXTINF:-1,US: DESTINATION AMERICA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/405.ts
+#EXTINF:-1,US: DISCOVERY FAMILY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/406.ts
+#EXTINF:-1,US: DISCOVERY ID EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/407.ts
+#EXTINF:-1,US: DISCOVERY LIFE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/408.ts
+#EXTINF:-1,US: DISCOVERY THEATER HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/409.ts
+#EXTINF:-1,US: DISNEY CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/410.ts
+#EXTINF:-1,US: DIY NETWORK
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/411.ts
+#EXTINF:-1,US: E! ENTERTAINMENT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/412.ts
+#EXTINF:-1,US: ELREY NETWORK
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/413.ts
+#EXTINF:-1,US: FOOD NETWORK
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/414.ts
+#EXTINF:-1,US: FOX Business Network HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/415.ts
+#EXTINF:-1,US: FOX HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/416.ts
+#EXTINF:-1,US: Fox Network
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/417.ts
+#EXTINF:-1,US: FOX News
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/418.ts
+#EXTINF:-1,US: FREEFORM
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/419.ts
+#EXTINF:-1,US: FUSE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/420.ts
+#EXTINF:-1,US: FUSION
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/421.ts
+#EXTINF:-1,US: FX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/422.ts
+#EXTINF:-1,US: FXM
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/423.ts
+#EXTINF:-1,US: FXX
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/424.ts
+#EXTINF:-1,US: FYI
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/425.ts
+#EXTINF:-1,US: GRIT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/426.ts
+#EXTINF:-1,US: GSN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/427.ts
+#EXTINF:-1,US: HALLMARK DRAMA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/428.ts
+#EXTINF:-1,US: HALLMARK EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/429.ts
+#EXTINF:-1,US: HALLMARK MOVIES AND MYSTERIES
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/430.ts
+#EXTINF:-1,US: HGTV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/431.ts
+#EXTINF:-1,US: HISTORY CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/432.ts
+#EXTINF:-1,US: HLN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/433.ts
+#EXTINF:-1,US: IFC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/434.ts
+#EXTINF:-1,US: INSP
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/435.ts
+#EXTINF:-1,US: ION TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/436.ts
+#EXTINF:-1,US: LIFETIME
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/437.ts
+#EXTINF:-1,US: LMN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/438.ts
+#EXTINF:-1,US: LOGO
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/439.ts
+#EXTINF:-1,US: MOTOR TREND
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/440.ts
+#EXTINF:-1,US: MSNBC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/441.ts
+#EXTINF:-1,US: MTV CLASSIC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/442.ts
+#EXTINF:-1,US: MTV LIVE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/443.ts
+#EXTINF:-1,US: MTV U
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/444.ts
+#EXTINF:-1,US: MTV2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/445.ts
+#EXTINF:-1,US: NAT GEO WILD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/446.ts
+#EXTINF:-1,US: NATIONAL GEOGRAPHIC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/447.ts
+#EXTINF:-1,US: ONE AMERICA NEWS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/448.ts
+#EXTINF:-1,US: OUTDOOR CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/449.ts
+#EXTINF:-1,US: OUTSIDE TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/450.ts
+#EXTINF:-1,US: OWN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/451.ts
+#EXTINF:-1,US: OXYGEN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/452.ts
+#EXTINF:-1,US: PARAMOUNT CHANNEL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/453.ts
+#EXTINF:-1,US: PIXL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/455.ts
+#EXTINF:-1,US: POP
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/456.ts
+#EXTINF:-1,US: PURSUIT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/457.ts
+#EXTINF:-1,US: REELZ
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/458.ts
+#EXTINF:-1,US: REVOLT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/459.ts
+#EXTINF:-1,US: SCIENCE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/460.ts
+#EXTINF:-1,US: GAME SHOW NETWORK HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/461.ts
+#EXTINF:-1,US: SYFY
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/462.ts
+#EXTINF:-1,US: TASTEMADE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/463.ts
+#EXTINF:-1,US: TBS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/464.ts
+#EXTINF:-1,US: TCM
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/465.ts
+#EXTINF:-1,US: TLC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/466.ts
+#EXTINF:-1,US: TNT
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/467.ts
+#EXTINF:-1,US: TRUTV EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/468.ts
+#EXTINF:-1,US: TV ONE
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/470.ts
+#EXTINF:-1,US: UNIVERSAL KIDS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/471.ts
+#EXTINF:-1,US: USA NETWORK EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/472.ts
+#EXTINF:-1,US: VH1 EAST
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/473.ts
+#EXTINF:-1,US: WE TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/474.ts
+#EXTINF:-1,US: WGN AMERICA
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/476.ts
 
-
-#EXTINF:-1,NETFLIX HORROR 1
-http://globalsystems.me:8880/Philbell/775623143/2580858
-#EXTINF:-1,NETFLIX HORROR 2
-http://globalsystems.me:8880/Philbell/775623143/2580859
-#EXTINF:-1,NETFLIX HORROR 3
-http://globalsystems.me:8880/Philbell/775623143/2580860
-#EXTINF:-1,NETFLIX HORROR 4
-http://globalsystems.me:8880/Philbell/775623143/2580861
-#EXTINF:-1,NETFLIX HORROR 5
-http://globalsystems.me:8880/Philbell/775623143/2580862
-#EXTINF:-1,NETFLIX HORROR 6
-http://globalsystems.me:8880/Philbell/775623143/2580863
-#EXTINF:-1,NETFLIX HORROR 7
-http://globalsystems.me:8880/Philbell/775623143/2580864
-#EXTINF:-1,NETFLIX HORROR 8
-http://globalsystems.me:8880/Philbell/775623143/2580865
 
 
 
