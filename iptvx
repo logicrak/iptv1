@@ -9,16 +9,37 @@ http://ky-iptv.com:25461/funtimes/funtimes/773428
 
 #EXTINF:-1, MotorCyclist 
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
-#EXTINF:-1,US: 5 STARMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/329.ts
-#EXTINF:-1,US: ACTIONMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/330.ts
-#EXTINF:-1,US: HBO EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/339.ts
-#EXTINF:-1,US: HBO 2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/340.ts
-#EXTINF:-1,US: HBO PLUS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/344.ts
+#EXTINF:-1,USA: A&E
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524263
+#EXTINF:-1,USA: AXN
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2075944
+#EXTINF:-1,..E! ENTERTAINMENT WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7908
+#EXTINF:-1,..EPIX HITS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/395572
+
+
+
+#EXTINF:-1,US: STARZ CINEMA HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1075
+#EXTINF:-1,US: Starz Comedy
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1072
+#EXTINF:-1,US: STARZ EDGE HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1073
+#EXTINF:-1,USA:-  Action Max
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36880
+#EXTINF:-1,USA:-  HBO 1 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36798
+#EXTINF:-1,USA:-  HBO 2 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36797
+#EXTINF:-1,USA:-  HBO Family HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36884
+#EXTINF:-1,USA:-  HBO Comedy HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36799
+#EXTINF:-1,USA:-  HBO Signature HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36796
+#EXTINF:-1,USA:-  HBO Zone
+http://portal.alliptvapp.com:8080/613607218194/666579067773/36795
 #EXTINF:-1,US: HDNET MOVIES
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/347.ts
 
@@ -27,8 +48,13 @@ http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/347.ts
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,USA: History Channel
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524366
+#EXTINF:-1,USA: Cooking Channel
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524308
 #EXTINF:-1,TasteMade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
 
 
 #EXTINF:0,French Lover 
