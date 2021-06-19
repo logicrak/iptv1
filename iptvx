@@ -9,8 +9,12 @@ http://ky-iptv.com:25461/funtimes/funtimes/773428
 
 #EXTINF:-1, MotorCyclist 
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1,CA: Adult Swim
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549122
 #EXTINF:-1,USA: A&E
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524263
+#EXTINF:-1,CA: A&E
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549647
 #EXTINF:-1,USA: AXN
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2075944
 #EXTINF:-1,..E! ENTERTAINMENT WEST HD
