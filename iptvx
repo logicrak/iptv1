@@ -11,16 +11,22 @@ http://ky-iptv.com:25461/funtimes/funtimes/773428
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1,CA: Adult Swim
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549122
-#EXTINF:-1,USA: A&E
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524263
+#EXTINF:-1,USA| A E
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11196
 #EXTINF:-1,CA: A&E
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549647
 #EXTINF:-1,USA: AXN
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2075944
+#EXTINF:-1,USA| E HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11187
 #EXTINF:-1,..E! ENTERTAINMENT WEST HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7908
 #EXTINF:-1,..EPIX HITS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/395572
+#EXTINF:-1,USA| FX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11184
+#EXTINF:-1,USA| FXX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11183
 #EXTINF:-1,CA: Crave 1
 http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549720
 #EXTINF:-1,CA: Crave 2
@@ -32,30 +38,98 @@ http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549723
 
 
 
-#EXTINF:-1,US: STARZ CINEMA HD
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1075
-#EXTINF:-1,US: Starz Comedy
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1072
-#EXTINF:-1,US: STARZ EDGE HD
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1073
-#EXTINF:-1,US: Cinemax ActionMax East
-http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1069
-#EXTINF:-1,USA:-  Action Max
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36880
-#EXTINF:-1,USA:-  HBO 1 HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36798
-#EXTINF:-1,USA:-  HBO 2 HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36797
-#EXTINF:-1,USA:-  HBO Family HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36884
-#EXTINF:-1,USA:-  HBO Comedy HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36799
-#EXTINF:-1,USA:-  HBO Signature HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36796
-#EXTINF:-1,USA:-  HBO Zone
-http://portal.alliptvapp.com:8080/613607218194/666579067773/36795
-#EXTINF:-1,US: HDNET MOVIES
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/347.ts
+#EXTINF:-1,USA| Cinemax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13126
+#EXTINF:-1,USA| CINEMAX ACTION MAX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13127
+#EXTINF:-1,USA| CINEMAX OUTER MAX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14614
+#EXTINF:-1,USA| CINEMAXX MORE MAXX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14615
+#EXTINF:-1,USA| Actionmax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20425
+#EXTINF:-1,USA| Cinemax 5 Starmax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20426
+#EXTINF:-1,USA| Moremax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20424
+#EXTINF:-1,USA| MAX East
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20423
+#EXTINF:-1,USA| Epix
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13068
+#EXTINF:-1,USA| HBO Latino
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20422
+#EXTINF:-1,USA| HBO Latino 2
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20421
+#EXTINF:-1,USA| HBO 2 East
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11182
+#EXTINF:-1,USA| HBO Comedy
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11181
+#EXTINF:-1,USA| HBO East HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11180
+#EXTINF:-1,USA| HBO Family
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11179
+#EXTINF:-1,USA| HBO Family HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13129
+#EXTINF:-1,USA| HBO Signature
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11178
+#EXTINF:-1,USA| HBO west HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11177
+#EXTINF:-1,USA| HBO Zone
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11176
+#EXTINF:-1,USA| SHOWTIME HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11198
+#EXTINF:-1,USA| Showtime Family Zone
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60735
+#EXTINF:-1,USA| Showtime East HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11166
+#EXTINF:-1,USA| Showtime Extream HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11165
+#EXTINF:-1,USA| Showtime 2
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11164
+#EXTINF:-1,USA| Showtime Next
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60737
+#EXTINF:-1,USA| Showtime Showcase
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60736
+#EXTINF:-1,USA| Brookly Nine Nine
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60734
+#EXTINF:-1,USA| Showtime Beyond
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60733
+#EXTINF:-1,USA| Showtime Extreme
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60732
+#EXTINF:-1,USA| Showtime Beyond HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60731
+#EXTINF:-1,USA| Starz HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11159
+#EXTINF:-1,USA| Starz Cinema HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11161
+#EXTINF:-1,USA| Starz Encore
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60730
+#EXTINF:-1,USA| Starz Comedy
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60729
+#EXTINF:-1,USA| Starz West
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60728
+#EXTINF:-1,USA| Starz Kids & Family
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60727
+#EXTINF:-1,USA| Starz Edge
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60726
+#EXTINF:-1,USA| Starz Encore Family FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76978
+#EXTINF:-1,USA| Starz Encore HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76979
+#EXTINF:-1,USA| Starz Encore Westerns FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76977
+#EXTINF:-1,USA| Starz Encore West FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76975
+#EXTINF:-1,USA| Starz Kids & Family FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76976
+#EXTINF:-1,USA| Starz Encore Westerns FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11160
+#EXTINF:-1,USA| TCM
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13130
+#EXTINF:-1,USA| FX MOVIES
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54231
+#EXTINF:-1,USA|  CINEMAX 5 STARMAX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54256
 
 
 #EXTINF:-1,&Prive HD
@@ -112,12 +186,14 @@ http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470423
 #EXTINF:0,18+: WowPorn
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470379
 
-#EXTINF:0,18+: Tushy
-http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470377
-#EXTINF:0,REALITY KINGS
-http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4784
-#EXTINF:0, VIXEN
-http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4786
+#EXTINF:0,Tushy_BY 
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259940
+#EXTINF:0,TushyRAW
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259941
+#EXTINF:0,Reality Kings
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259935
+#EXTINF:0,Vixen
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259945
 #EXTINF:0,18+: NubileFilms
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470428
 #EXTINF:0,18+: Nubiles
@@ -132,10 +208,8 @@ http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470432
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470399
 #EXTINF:0,18+: PureMature
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470436
-#EXTINF:0,18+: PureTaboo
-http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470437
-#EXTINF:-1,XXX | Lustery
-http://globalsystems.me:8880/Philbell/775623143/2849626
+#EXTINF:0,Pure Taboo
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259932
 #EXTINF:0,18+: Karupsow
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470418
 #EXTINF:0,21Naturals
@@ -169,22 +243,20 @@ http://185.96.176.139:8080/superone/index.m3u8
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470356
 #EXTINF:0,XXX | PERV MOM
 http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4782
-#EXTINF:0,18+: FamilyStrokes
-http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470364
-#EXTINF:0,18+: FilthyFamily
-http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470403
-#EXTINF:0, FAMILY STROKES | HD
+#EXTINF:0, FAMILY STROKES
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/469987
-#EXTINF:0,18+: MyFamilyPies
-http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470425
+#EXTINF:0,Kinky Family
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259914
 #EXTINF:0,Family Hookups
 http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259897
+#EXTINF:0,Family Strokes
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259898
 #EXTINF:0,XXX | FAMILY XXX
 http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4775
-#EXTINF:0,18+: DaughterSwap
-http://gooserace.xyz:2052/donna/donna123/2578133
-#EXTINF:-1,XXX | Dad Crush
-http://globalsystems.me:8880/Philbell/775623143/2849556
+#EXTINF:0,Daughter Swap
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259886
+#EXTINF:0,Dad Crush
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259884
 #EXTINF:0,18+: MommyBlowsBest
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470369
 
@@ -257,10 +329,9 @@ http://ky-iptv.com:25461/funtimes/funtimes/218072
 
 #EXTINF:0,18+: FakeTaxi
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470400
-#EXTINF:0,PUBLICAGENT 1
-http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4760
-#EXTINF:0,PUBLIcAGENT 2
-http://iptvhogar.club:25461/Claudio_Diaz/2739742763/4761
+#EXTINF:0,Public Agent
+http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259931
+
 #EXTINF:0,FAKE AGENT 
 http://scrapehost.com:8080/123456/654321/259401
 #EXTINF:0,FAKE HOSPITAL
