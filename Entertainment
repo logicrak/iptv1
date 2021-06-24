@@ -1,316 +1,257 @@
-#EXTINF:-1,IN: sony pix HD
-http://ultrontv.xyz:80/morgan/morgan123/47081
-#EXTINF:-1,IN: Movies Now HD
-http://ultrontv.xyz:80/morgan/morgan123/47110
-#EXTINF:-1,IN:VIP Star movies
-http://ultrontv.xyz:80/morgan/morgan123/47025
-#EXTINF:-1,IN: Star world HD
-http://ultrontv.xyz:80/morgan/morgan123/47083
-#EXTINF:-1,IN: Star world premier HD
-http://ultrontv.xyz:80/morgan/morgan123/47084
-#EXTINF:-1,&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1, &Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
 #EXTM3U
-#EXTINF:-1,US: 5 STARMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/329.ts
-#EXTINF:-1,US: ACTIONMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/330.ts
-#EXTINF:-1,US: CINEMAX EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/331.ts
-#EXTINF:-1,US: OUTERMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/332.ts
-#EXTINF:-1,US: MOREMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/333.ts
-#EXTINF:-1,US: THRILLERMAX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/334.ts
-#EXTINF:-1,US: EPIX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/335.ts
-#EXTINF:-1,US: EPIX 2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/336.ts
-#EXTINF:-1,US: EPIX DRIVE-IN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/337.ts
-#EXTINF:-1,US: EPIX HITS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/338.ts
-#EXTINF:-1,US: HBO EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/339.ts
-#EXTINF:-1,US: HBO 2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/340.ts
-#EXTINF:-1,US: HBO COMEDY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/341.ts
-#EXTINF:-1,US: HBO FAMILY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/342.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/343.ts
-#EXTINF:-1,US: HBO PLUS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/344.ts
-#EXTINF:-1,US: HBO WEST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/345.ts
-#EXTINF:-1,US: HBO ZONE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/346.ts
-#EXTINF:-1,US: HDNET MOVIES
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/347.ts
-#EXTINF:-1,US: RETRO PLEX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/350.ts
-#EXTINF:-1,US: SHOWTIME EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/351.ts
-#EXTINF:-1,US: SHOWTIME WEST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/352.ts
-#EXTINF:-1,US: SHOWTIME SHOWCASE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/353.ts
-#EXTINF:-1,US: SHOWTIME EXTREME
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/354.ts
-#EXTINF:-1,US: SHOWTIME FAMILY ZONE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/355.ts
-#EXTINF:-1,US: SHOWTIME NEXT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/356.ts
-#EXTINF:-1,US: SHOWTIME WOMEN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/357.ts
-#EXTINF:-1,US: STARZ CINEMA
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/358.ts
-#EXTINF:-1,US: STARZ EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/359.ts
-#EXTINF:-1,US: STARZ WEST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/360.ts
-#EXTINF:-1,US: STARZ COMEDY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/361.ts
-#EXTINF:-1,US: STARZ EDGE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/362.ts
-#EXTINF:-1,US: STARZENCORE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/363.ts
-#EXTINF:-1,US: Starz Encore West
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/364.ts
-#EXTINF:-1,US: STARZENCORE ACTION
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/365.ts
-#EXTINF:-1,US: STARZ ENCORE CLASSIC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/366.ts
-#EXTINF:-1,US: STARZ ENCORE FAMILY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/367.ts
-#EXTINF:-1,US: STARZENCORE SUSPENSE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/368.ts
-#EXTINF:-1,US: STARZENCORE WESTERNS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/369.ts
-#EXTINF:-1,US: STARZ IN BLACK
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/370.ts
-#EXTINF:-1,US: STARZ KIDS & FAMILY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/371.ts
-#EXTINF:-1,US: SHOWTIME BET
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/372.ts
-#EXTINF:-1,US: SHOWTIME 2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/373.ts
-#EXTINF:-1,US: THE MOVIE CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/374.ts
-#EXTINF:-1,US: A&E
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/375.ts
-#EXTINF:-1,US: ABC HD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/376.ts
-#EXTINF:-1,US: ABC News
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/377.ts
-#EXTINF:-1,US: AMC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/378.ts
-#EXTINF:-1,US: AMERICAN HEROES CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/379.ts
-#EXTINF:-1,US: ANIMAL PLANET
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/380.ts
-#EXTINF:-1,US: AXS TV
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/381.ts
-#EXTINF:-1,US: BBC AMERICA
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/382.ts
-#EXTINF:-1,US: BET EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/383.ts
-#EXTINF:-1,US: BET HER
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/384.ts
-#EXTINF:-1,US: BET JAMS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/385.ts
-#EXTINF:-1,US: BET SOUL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/386.ts
-#EXTINF:-1,US: BET WEST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/387.ts
-#EXTINF:-1,US: BLOOMBERG
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/388.ts
-#EXTINF:-1,US: BOUNCE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/389.ts
-#EXTINF:-1,US: BRAVO EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/390.ts
-#EXTINF:-1,US: BUZZR
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/391.ts
-#EXTINF:-1,US: CBSN HD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/393.ts
-#EXTINF:-1,US: CHEDDAR BUSINESS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/394.ts
-#EXTINF:-1,US: CHEDDAR NEWS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/395.ts
-#EXTINF:-1,US: CINEMAX EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/396.ts
-#EXTINF:-1,US: CMT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/397.ts
-#EXTINF:-1,US: CNBC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/398.ts
-#EXTINF:-1,US: CNBC WORLD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/399.ts
-#EXTINF:-1,US: CNN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/400.ts
-#EXTINF:-1,US: COMEDY CENTRAL EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/401.ts
-#EXTINF:-1,US: COMET
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/402.ts
-#EXTINF:-1,US: COOKING CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/403.ts
-#EXTINF:-1,US: COZI TV
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/404.ts
-#EXTINF:-1,US: DESTINATION AMERICA
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/405.ts
-#EXTINF:-1,US: DISCOVERY FAMILY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/406.ts
-#EXTINF:-1,US: DISCOVERY ID EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/407.ts
-#EXTINF:-1,US: DISCOVERY LIFE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/408.ts
-#EXTINF:-1,US: DISCOVERY THEATER HD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/409.ts
-#EXTINF:-1,US: DISNEY CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/410.ts
-#EXTINF:-1,US: DIY NETWORK
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/411.ts
-#EXTINF:-1,US: E! ENTERTAINMENT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/412.ts
-#EXTINF:-1,US: ELREY NETWORK
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/413.ts
-#EXTINF:-1,US: FOOD NETWORK
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/414.ts
-#EXTINF:-1,US: FOX Business Network HD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/415.ts
-#EXTINF:-1,US: FOX HD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/416.ts
-#EXTINF:-1,US: Fox Network
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/417.ts
-#EXTINF:-1,US: FOX News
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/418.ts
-#EXTINF:-1,US: FREEFORM
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/419.ts
-#EXTINF:-1,US: FUSE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/420.ts
-#EXTINF:-1,US: FUSION
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/421.ts
-#EXTINF:-1,US: FX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/422.ts
-#EXTINF:-1,US: FXM
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/423.ts
-#EXTINF:-1,US: FXX
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/424.ts
-#EXTINF:-1,US: FYI
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/425.ts
-#EXTINF:-1,US: GRIT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/426.ts
-#EXTINF:-1,US: GSN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/427.ts
-#EXTINF:-1,US: HALLMARK DRAMA
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/428.ts
-#EXTINF:-1,US: HALLMARK EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/429.ts
-#EXTINF:-1,US: HALLMARK MOVIES AND MYSTERIES
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/430.ts
-#EXTINF:-1,US: HGTV
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/431.ts
-#EXTINF:-1,US: HISTORY CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/432.ts
-#EXTINF:-1,US: HLN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/433.ts
-#EXTINF:-1,US: IFC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/434.ts
-#EXTINF:-1,US: INSP
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/435.ts
-#EXTINF:-1,US: ION TV
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/436.ts
-#EXTINF:-1,US: LIFETIME
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/437.ts
-#EXTINF:-1,US: LMN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/438.ts
-#EXTINF:-1,US: LOGO
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/439.ts
-#EXTINF:-1,US: MOTOR TREND
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/440.ts
-#EXTINF:-1,US: MSNBC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/441.ts
-#EXTINF:-1,US: MTV CLASSIC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/442.ts
-#EXTINF:-1,US: MTV LIVE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/443.ts
-#EXTINF:-1,US: MTV U
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/444.ts
-#EXTINF:-1,US: MTV2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/445.ts
-#EXTINF:-1,US: NAT GEO WILD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/446.ts
-#EXTINF:-1,US: NATIONAL GEOGRAPHIC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/447.ts
-#EXTINF:-1,US: ONE AMERICA NEWS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/448.ts
-#EXTINF:-1,US: OUTDOOR CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/449.ts
-#EXTINF:-1,US: OUTSIDE TV
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/450.ts
-#EXTINF:-1,US: OWN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/451.ts
-#EXTINF:-1,US: OXYGEN
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/452.ts
-#EXTINF:-1,US: PARAMOUNT CHANNEL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/453.ts
-#EXTINF:-1,US: PIXL
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/455.ts
-#EXTINF:-1,US: POP
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/456.ts
-#EXTINF:-1,US: PURSUIT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/457.ts
-#EXTINF:-1,US: REELZ
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/458.ts
-#EXTINF:-1,US: REVOLT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/459.ts
-#EXTINF:-1,US: SCIENCE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/460.ts
-#EXTINF:-1,US: GAME SHOW NETWORK HD
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/461.ts
-#EXTINF:-1,US: SYFY
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/462.ts
-#EXTINF:-1,US: TASTEMADE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/463.ts
-#EXTINF:-1,US: TBS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/464.ts
-#EXTINF:-1,US: TCM
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/465.ts
-#EXTINF:-1,US: TLC
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/466.ts
-#EXTINF:-1,US: TNT
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/467.ts
-#EXTINF:-1,US: TRUTV EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/468.ts
-#EXTINF:-1,US: TV ONE
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/470.ts
-#EXTINF:-1,US: UNIVERSAL KIDS
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/471.ts
-#EXTINF:-1,US: USA NETWORK EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/472.ts
-#EXTINF:-1,US: VH1 EAST
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/473.ts
-#EXTINF:-1,US: WE TV
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/474.ts
-#EXTINF:-1,US: WGN AMERICA
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/476.ts
-
-
-
-
-
-#EXTINF:-1,|US| Trutv HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/9360
-#EXTINF:-1,|US| Travel Channel HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/9361
-#EXTINF:-1,|US| TLC CHANNEL
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/9363
-#EXTINF:-1,|US| NAT GEO HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/9386
-#EXTINF:-1,US | History Channel HD
-http://globalsystems.me:8880/Philbell/775623143/63396
-
+#EXTINF:-1,USA| NBCSN
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11151
+#EXTINF:-1,USA| A E
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11196
+#EXTINF:-1,USA| AMC HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11194
+#EXTINF:-1,USA| American Heroes Channel
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11193
+#EXTINF:-1,USA| BBC America
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13085
+#EXTINF:-1,USA| NBC 4 NY FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14622
+#EXTINF:-1,USA| BET HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13086
+#EXTINF:-1,USA| MSNBC FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13160
+#EXTINF:-1,USA| BET HER
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13087
+#EXTINF:-1,USA| CMT HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13088
+#EXTINF:-1,USA| Comedy Central
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11191
+#EXTINF:-1,USA| CRIME AND INVESTIGATION
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13089
+#EXTINF:-1,USA| Discovery Channel
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11188
+#EXTINF:-1,USA| Discovery Science HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13090
+#EXTINF:-1,USA| INVESTIGATION DISCOVERY
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14620
+#EXTINF:-1,USA| FX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11184
+#EXTINF:-1,USA| FXX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11183
+#EXTINF:-1,USA| History
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13091
+#EXTINF:-1,USA| IFC HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13092
+#EXTINF:-1,USA| Crime Investigation Discovery HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13093
+#EXTINF:-1,USA| ION
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13165
+#EXTINF:-1,USA| MTV
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11174
+#EXTINF:-1,USA| National Geographic HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11172
+#EXTINF:-1,USA| Paramount Network
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11168
+#EXTINF:-1,USA| Paramount Network HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13095
+#EXTINF:-1,USA| FREEFORM HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13119
+#EXTINF:-1,USA| Sundance HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13097
+#EXTINF:-1,USA| SYFY
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11158
+#EXTINF:-1,USA| TBS
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11157
+#EXTINF:-1,USA| TNT
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11155
+#EXTINF:-1,USA| TNT HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13098
+#EXTINF:-1,USA| USA Network
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13099
+#EXTINF:-1,USA| FOX News. UHD.
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/22169
+#EXTINF:-1,USA| Fox News HD.
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/22170
+#EXTINF:-1,USA| Fox Soccer Plus HD.
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/22194
+#EXTINF:-1,USA| VH1 HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13100
+#EXTINF:-1,USA| Animal Planet
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11192
+#EXTINF:-1,USA| Bravo HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13101
+#EXTINF:-1,USA| Cooking Channel HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13102
+#EXTINF:-1,USA| Cooking
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11190
+#EXTINF:-1,USA| Destination America HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11189
+#EXTINF:-1,USA| DESTINATION AMERICA
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13103
+#EXTINF:-1,USA| DIY Network HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13104
+#EXTINF:-1,USA| EL Rey Network FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13070
+#EXTINF:-1,USA| E HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11187
+#EXTINF:-1,USA| E
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13069
+#EXTINF:-1,USA| Food Network
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13072
+#EXTINF:-1,USA| HGTV
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11175
+#EXTINF:-1,USA| LifeTime HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13105
+#EXTINF:-1,USA| National Geographic Wild HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11171
+#EXTINF:-1,USA| Nat Geo Wild HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13106
+#EXTINF:-1,USA| NAT GEO
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11173
+#EXTINF:-1,USA| OXYGEN HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13107
+#EXTINF:-1,USA| OWN HD (OPRAH WINFRY NETWORK)
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13108
+#EXTINF:-1,USA| TLC
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13109
+#EXTINF:-1,USA| TRAVEL CHANNEL
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13110
+#EXTINF:-1,USA| VICELAND
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13111
+#EXTINF:-1,USA| Red Bull TV
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13112
+#EXTINF:-1,USA| WE HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13113
+#EXTINF:-1,USA| PBS Kids HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13114
+#EXTINF:-1,USA|  PBS HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13166
+#EXTINF:-1,USA| Boomerang HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13115
+#EXTINF:-1,USA| Discovery Family HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13116
+#EXTINF:-1,USA| Disney Jr. HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13118
+#EXTINF:-1,USA| Disney Jr
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11207
+#EXTINF:-1,USA| Disney Channel HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13117
+#EXTINF:-1,USA| Disney
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11209
+#EXTINF:-1,USA| Disney XD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11208
+#EXTINF:-1,USA| Hallmark ChanneL
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11200
+#EXTINF:-1,USA| Hallmark  Movies/Mysteries HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11199
+#EXTINF:-1,USA| Hallmark Movies Mysteries HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13121
+#EXTINF:-1,USA| Hallmark Channel FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13120
+#EXTINF:-1,USA| Hall Mark HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11201
+#EXTINF:-1,USA| Hallmark Drama
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60739
+#EXTINF:-1,USA| Hallmark Channel
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60738
+#EXTINF:-1,USA| NickToons
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13123
+#EXTINF:-1,USA| NICK JR
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14624
+#EXTINF:-1,USA| NICKELODEON
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13122
+#EXTINF:-1,USA| TV LAND HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13124
+#EXTINF:-1,USA| TV Land
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11154
+#EXTINF:-1,USA| UNIVERSAL
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13125
+#EXTINF:-1,USA| Cinemax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13126
+#EXTINF:-1,USA| CINEMAX ACTION MAX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13127
+#EXTINF:-1,USA| CINEMAX OUTER MAX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14614
+#EXTINF:-1,USA| CINEMAXX MORE MAXX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14615
+#EXTINF:-1,USA| Actionmax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20425
+#EXTINF:-1,USA| Cinemax 5 Starmax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20426
+#EXTINF:-1,USA| Moremax HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20424
+#EXTINF:-1,USA| MAX East
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20423
+#EXTINF:-1,USA| Epix
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13068
+#EXTINF:-1,USA| HBO Latino
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20422
+#EXTINF:-1,USA| HBO Latino 2
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20421
+#EXTINF:-1,USA| HBO 2 East
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11182
+#EXTINF:-1,USA| HBO Comedy
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11181
+#EXTINF:-1,USA| HBO East HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11180
+#EXTINF:-1,USA| HBO Family
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11179
+#EXTINF:-1,USA| HBO Family HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13129
+#EXTINF:-1,USA| HBO Signature
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11178
+#EXTINF:-1,USA| HBO west HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11177
+#EXTINF:-1,USA| HBO Zone
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11176
+#EXTINF:-1,USA| SHOWTIME HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11198
+#EXTINF:-1,USA| Showtime Family Zone
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60735
+#EXTINF:-1,USA| Showtime East HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11166
+#EXTINF:-1,USA| Showtime Extream HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11165
+#EXTINF:-1,USA| Showtime 2
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11164
+#EXTINF:-1,USA| Showtime Next
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60737
+#EXTINF:-1,USA| Showtime Showcase
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60736
+#EXTINF:-1,USA| Brookly Nine Nine
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60734
+#EXTINF:-1,USA| Showtime Beyond
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60733
+#EXTINF:-1,USA| Showtime Extreme
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60732
+#EXTINF:-1,USA| Showtime Beyond HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60731
+#EXTINF:-1,USA| Starz HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11159
+#EXTINF:-1,USA| Starz Cinema HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11161
+#EXTINF:-1,USA| Starz Encore
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60730
+#EXTINF:-1,USA| Starz Comedy
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60729
+#EXTINF:-1,USA| Starz West
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60728
+#EXTINF:-1,USA| Starz Kids & Family
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60727
+#EXTINF:-1,USA| Starz Edge
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60726
+#EXTINF:-1,USA| Starz Encore Family FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76978
+#EXTINF:-1,USA| Starz Encore HD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76979
+#EXTINF:-1,USA| Starz Encore Westerns FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76977
+#EXTINF:-1,USA| Starz Encore West FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76975
+#EXTINF:-1,USA| Starz Kids & Family FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76976
+#EXTINF:-1,USA| Starz Encore Westerns FHD
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11160
+#EXTINF:-1,USA| TCM
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13130
+#EXTINF:-1,USA| FX MOVIES
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54231
+#EXTINF:-1,USA|  CINEMAX 5 STARMAX
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54256
+#EXTINF:-1,USA|  AMERICAN WEALTH ENTERTAINMENT (AWE)
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54275
