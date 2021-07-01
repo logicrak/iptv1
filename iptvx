@@ -9,127 +9,57 @@ http://ky-iptv.com:25461/funtimes/funtimes/773428
 
 #EXTINF:-1, MotorCyclist 
 https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
-#EXTINF:-1,CA: Adult Swim
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549122
-#EXTINF:-1,USA| A E
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11196
-#EXTINF:-1,CA: A&E
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549647
-#EXTINF:-1,USA: AXN
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2075944
-#EXTINF:-1,USA| E HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11187
-#EXTINF:-1,..E! ENTERTAINMENT WEST HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7908
-#EXTINF:-1,..EPIX HITS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/395572
-#EXTINF:-1,USA| FX
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11184
-#EXTINF:-1,USA| FXX
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11183
-#EXTINF:-1,CA: Crave 1
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549720
-#EXTINF:-1,CA: Crave 2
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549721
-#EXTINF:-1,CA: Crave 3
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549722
-#EXTINF:-1,CA: Crave 4
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1549723
+#EXTINF:-1,US: National Geographic
+http://starshare.live:8080/live/449988/449988/17.ts
+#EXTINF:-1,US: Lifetime Movies
+http://starshare.live:8080/live/449988/449988/202.ts
+#EXTINF:-1,US: HBO HD
+http://starshare.live:8080/live/449988/449988/1007.ts
+#EXTINF:-1,US: HBO 2 Comedy
+http://starshare.live:8080/live/449988/449988/1025.ts
+#EXTINF:-1,US: HBO Family FHD
+http://starshare.live:8080/live/449988/449988/1026.ts
+#EXTINF:-1,US: HBO Signature FHD
+http://starshare.live:8080/live/449988/449988/1027.ts
+#EXTINF:-1,US: HBO Zone FHD
+http://starshare.live:8080/live/449988/449988/1028.ts
+#EXTINF:-1,US: HBO 2
+http://starshare.live:8080/live/449988/449988/3352.ts
+#EXTINF:-1,US: HBO EAST
+http://starshare.live:8080/live/449988/449988/3353.ts
+#EXTINF:-1,US: HBO WEST
+http://starshare.live:8080/live/449988/449988/3354.ts
+#EXTINF:-1,US: HBO FAMILY
+http://starshare.live:8080/live/449988/449988/3355.ts
+#EXTINF:-1,US: HBO ZONE
+http://starshare.live:8080/live/449988/449988/3356.ts
+#EXTINF:-1,US: HBO COMEDY
+http://starshare.live:8080/live/449988/449988/3357.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://starshare.live:8080/live/449988/449988/3358.ts
+#EXTINF:-1,US: Lifetime Movie Network HD
+http://starshare.live:8080/live/449988/449988/1134.ts
+#EXTINF:-1,US: LIFETIME NETWORK
+http://starshare.live:8080/live/449988/449988/1285.ts
+#EXTINF:-1,US: ACTION MAX
+http://starshare.live:8080/live/449988/449988/3362.ts
+#EXTINF:-1,US: INDIE PLEX HD
+http://starshare.live:8080/live/449988/449988/3393.ts
+#EXTINF:-1,US: MovieMax HD
+http://starshare.live:8080/live/449988/449988/3394.ts
+#EXTINF:-1,US: MOVIE PLEX HD
+http://starshare.live:8080/live/449988/449988/3395.ts
+#EXTINF:-1,US: STARZENCORE
+http://starshare.live:8080/live/449988/449988/3416.ts
+#EXTINF:-1,US: STARZENCORE ACTION
+http://starshare.live:8080/live/449988/449988/3417.ts
+#EXTINF:-1,US: STARZENCORE CLASSIC
+http://starshare.live:8080/live/449988/449988/3418.ts
+#EXTINF:-1,US: STARZENCORE FAMILY
+http://starshare.live:8080/live/449988/449988/3419.ts
 
 
 
-#EXTINF:-1,USA| Cinemax HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13126
-#EXTINF:-1,USA| CINEMAX ACTION MAX
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13127
-#EXTINF:-1,USA| CINEMAX OUTER MAX
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14614
-#EXTINF:-1,USA| CINEMAXX MORE MAXX
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/14615
-#EXTINF:-1,USA| Actionmax HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20425
-#EXTINF:-1,USA| Cinemax 5 Starmax HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20426
-#EXTINF:-1,USA| Moremax HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20424
-#EXTINF:-1,USA| MAX East
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20423
-#EXTINF:-1,USA| Epix
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13068
-#EXTINF:-1,USA| HBO Latino
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20422
-#EXTINF:-1,USA| HBO Latino 2
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/20421
-#EXTINF:-1,USA| HBO 2 East
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11182
-#EXTINF:-1,USA| HBO Comedy
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11181
-#EXTINF:-1,USA| HBO East HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11180
-#EXTINF:-1,USA| HBO Family
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11179
-#EXTINF:-1,USA| HBO Family HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13129
-#EXTINF:-1,USA| HBO Signature
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11178
-#EXTINF:-1,USA| HBO west HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11177
-#EXTINF:-1,USA| HBO Zone
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11176
-#EXTINF:-1,USA| SHOWTIME HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11198
-#EXTINF:-1,USA| Showtime Family Zone
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60735
-#EXTINF:-1,USA| Showtime East HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11166
-#EXTINF:-1,USA| Showtime Extream HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11165
-#EXTINF:-1,USA| Showtime 2
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11164
-#EXTINF:-1,USA| Showtime Next
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60737
-#EXTINF:-1,USA| Showtime Showcase
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60736
-#EXTINF:-1,USA| Brookly Nine Nine
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60734
-#EXTINF:-1,USA| Showtime Beyond
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60733
-#EXTINF:-1,USA| Showtime Extreme
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60732
-#EXTINF:-1,USA| Showtime Beyond HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60731
-#EXTINF:-1,USA| Starz HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11159
-#EXTINF:-1,USA| Starz Cinema HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11161
-#EXTINF:-1,USA| Starz Encore
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60730
-#EXTINF:-1,USA| Starz Comedy
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60729
-#EXTINF:-1,USA| Starz West
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60728
-#EXTINF:-1,USA| Starz Kids & Family
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60727
-#EXTINF:-1,USA| Starz Edge
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/60726
-#EXTINF:-1,USA| Starz Encore Family FHD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76978
-#EXTINF:-1,USA| Starz Encore HD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76979
-#EXTINF:-1,USA| Starz Encore Westerns FHD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76977
-#EXTINF:-1,USA| Starz Encore West FHD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76975
-#EXTINF:-1,USA| Starz Kids & Family FHD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/76976
-#EXTINF:-1,USA| Starz Encore Westerns FHD
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/11160
-#EXTINF:-1,USA| TCM
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/13130
-#EXTINF:-1,USA| FX MOVIES
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54231
-#EXTINF:-1,USA|  CINEMAX 5 STARMAX
-http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/54256
 
 
 #EXTINF:-1,&Prive HD
