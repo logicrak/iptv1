@@ -21,8 +21,37 @@ http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524308
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
 [Temporary Entertainment]
-
-
+#EXTM3U
+#EXTINF:-1,US: 5 StarMAX HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169609
+#EXTINF:-1,US: MovieMAX HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169607
+#EXTINF:-1,US: OuterMAX HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169608
+#EXTINF:-1,US: ActionMAX (West) HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169600
+#EXTINF:-1,US: CineMAX (East) HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169601
+#EXTINF:-1,US: ThrillerMAX (West) HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169606
+#EXTINF:-1,US: HBO HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169611
+#EXTINF:-1,US: HBO 2 HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169613
+#EXTINF:-1,US: HBO Comedy HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169615
+#EXTINF:-1,US: HBO Family HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169617
+#EXTINF:-1,US: HBO Signature HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169619
+#EXTINF:-1,US: HBO Zone HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169621
+#EXTINF:-1,US: HBO Latino HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/170402
+#EXTINF:-1,US: Starz Cinema HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169647
+#EXTINF:-1,US: Starz Encore Family HD (West)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/170389
 
 
 [xxx]
