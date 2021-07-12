@@ -7,19 +7,6 @@ http://ky-iptv.com:25461/funtimes/funtimes/773427
 #EXTINF:0,MIAMI TV LATINO
 http://ky-iptv.com:25461/funtimes/funtimes/773428
 
-#EXTINF:-1, MotorCyclist 
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
-#EXTINF:-1,&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1, &Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,USA: History Channel
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524366
-#EXTINF:-1,USA: Cooking Channel
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524308
-#EXTINF:-1,TasteMade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
-
 [Temporary Entertainment]
 #EXTM3U
 #EXTINF:-1,US: 5 StarMAX HD
@@ -52,6 +39,32 @@ http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/170402
 http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169647
 #EXTINF:-1,US: Starz Encore Family HD (West)
 http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/170389
+
+[stable]
+
+#EXTINF:-1,&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,WarnerTVHD 720p
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,Xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1, Crackle
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, MotorCyclist 
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1,USA: History Channel
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524366
+#EXTINF:-1,USA: Cooking Channel
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524308
+#EXTINF:-1,TasteMade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+
 
 
 [xxx]
