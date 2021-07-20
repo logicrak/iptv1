@@ -1,6 +1,5 @@
 [stable]
 #EXTM3U
-
 #EXTINF:-1,&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, &Flix HD
@@ -34,7 +33,6 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 
 
 [Temporary Entertainment]
-#EXTM3U
 #EXTINF:-1,US: 5 StarMAX HD
 http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169609
 #EXTINF:-1,US: MovieMAX HD
