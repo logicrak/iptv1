@@ -31,6 +31,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 #EXTINF:-1,TasteMade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
+#EXTINF:-1 ,JASMINE
+http://212.42.193.122:8888/play/a00o/index.m3u8
+#EXTINF:-1, FashionTV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
 
 [Temporary Entertainment]
 #EXTINF:-1,US: 5 StarMAX HD
@@ -64,10 +69,6 @@ http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169647
 #EXTINF:-1,US: Starz Encore Family HD (West)
 http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/170389
 
-#EXTINF:-1 ,JASMINE
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1, FashionTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 
 
