@@ -1,11 +1,35 @@
-#EXTINF:-1 ,JASMINE
-http://sofadad.co.uk:80/Sarah123/Sarah123/213451
-#EXTINF:-1, FashionTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,MIAMI TV
-http://ky-iptv.com:25461/funtimes/funtimes/773427
-#EXTINF:0,MIAMI TV LATINO
-http://ky-iptv.com:25461/funtimes/funtimes/773428
+[stable]
+#EXTINF:-1,&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,WarnerTVHD 720p
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,Xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1, Crackle
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1, PlutoTV1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,PopCornFlix
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1,StirrMovies Horror
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+#EXTINF:-1,TVCine Emotion
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1,TVCine Action
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1,RougeTV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
+
+#EXTINF:-1, MotorCyclist 
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1,TasteMade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
 
 [Temporary Entertainment]
 #EXTM3U
@@ -40,29 +64,10 @@ http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/169647
 #EXTINF:-1,US: Starz Encore Family HD (West)
 http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/170389
 
-[stable]
-
-#EXTINF:-1,&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1, &Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Moviesphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,WarnerTVHD 720p
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,Xumo
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-#EXTINF:-1, Crackle
-http://crackle-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, MotorCyclist 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1,USA: History Channel
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524366
-#EXTINF:-1,USA: Cooking Channel
-http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1524308
-#EXTINF:-1,TasteMade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 ,JASMINE
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1, FashionTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 
 
@@ -128,11 +133,8 @@ http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259856
 http://e.tvalt.xyz:80/Tvy2ENGWZ/2964656683/470390
 
 
-#EXTINF:0,18+: HDLove
-http://gooserace.xyz:2052/donna/donna123/2578152
 #EXTINF:0,RUSSKAYA NOCH
-http://iptv.elnszweldrel.in:46982/wekoe/5RJ0a5VBij/6831
-
+http://212.42.193.122:8888/play/a00o/index.m3u8
 #EXTINF:0,Playboy Plus
 http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259929
 #EXTINF:0,Playboy TV
