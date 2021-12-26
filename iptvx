@@ -4,16 +4,13 @@
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1, &Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF :-1, HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,Hallmark
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1,Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,WarnerTVHD 720p
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,NOS studioHD
-http://185.236.229.21:9981/play/a054
-#EXTINF:-1,AmediaHD
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Amedia Hit
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+
 #EXTINF:-1,Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
 #EXTINF:-1, Crackle
@@ -34,11 +31,17 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 http://185.236.229.21:9981/play/a05z
 #EXTINF:-1,TVCine Action
 http://185.236.229.21:9981/play/a04n
+#EXTINF:-1, unknown
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
 
 #EXTINF:-1, MotorCyclist 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 #EXTINF:-1,TasteMade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1,BonAppetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,
 #EXTINF:-1,RougeTV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 ,JASMINE
@@ -49,76 +52,8 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1,US: ACTIONMAX
-http://www.magicoiptv.org:8080/said/said123/588
-#EXTINF:-1,US: CINEMAX EAST
-http://www.magicoiptv.org:8080/said/said123/589
-#EXTINF:-1,US: CINEMAX WEST
-http://www.magicoiptv.org:8080/said/said123/590
-#EXTINF:-1,US: MOREMAX
-http://www.magicoiptv.org:8080/said/said123/591
-#EXTINF:-1,US: OUTERMAX
-http://www.magicoiptv.org:8080/said/said123/592
-#EXTINF:-1,US: THRILLERMAX
-http://www.magicoiptv.org:8080/said/said123/593
-#EXTINF:-1,US: EPIX
-http://www.magicoiptv.org:8080/said/said123/594
-#EXTINF:-1,US: EPIX DRIVE IN
-http://www.magicoiptv.org:8080/said/said123/595
-#EXTINF:-1,US: EPIX HITS
-http://www.magicoiptv.org:8080/said/said123/596
-#EXTINF:-1,US: EPIX2
-http://www.magicoiptv.org:8080/said/said123/597
-#EXTINF:-1,US: HBO COMEDY
-http://www.magicoiptv.org:8080/said/said123/598
-#EXTINF:-1,US: HBO EAST
-http://www.magicoiptv.org:8080/said/said123/599
-#EXTINF:-1,US: HBO FAMILY
-http://www.magicoiptv.org:8080/said/said123/600
-#EXTINF:-1,US: HBO SIGNATURE
-http://www.magicoiptv.org:8080/said/said123/601
-#EXTINF:-1,US: HBO WEST
-http://www.magicoiptv.org:8080/said/said123/602
-#EXTINF:-1,US: HBO ZONE
-http://www.magicoiptv.org:8080/said/said123/603
-#EXTINF:-1,US: SHOWTIME EAST
-http://www.magicoiptv.org:8080/said/said123/604
-#EXTINF:-1,US: SHOWTIME WEST
-http://www.magicoiptv.org:8080/said/said123/605
-#EXTINF:-1,US: SHOWTIME BEYOND
-http://www.magicoiptv.org:8080/said/said123/606
-#EXTINF:-1,US: SHOWTIME FAMILY ZONE
-http://www.magicoiptv.org:8080/said/said123/607
-#EXTINF:-1,US: SHOWTIME NEXT
-http://www.magicoiptv.org:8080/said/said123/608
-#EXTINF:-1,US: SHOWTIME SHOWCASE
-http://www.magicoiptv.org:8080/said/said123/609
-#EXTINF:-1,US: SHOWTIME WOMEN
-http://www.magicoiptv.org:8080/said/said123/610
-#EXTINF:-1,US: STARZ EAST
-http://www.magicoiptv.org:8080/said/said123/612
-#EXTINF:-1,US: STARZ WEST
-http://www.magicoiptv.org:8080/said/said123/613
-#EXTINF:-1,US: STARZ EDGE
-http://www.magicoiptv.org:8080/said/said123/614
-#EXTINF:-1,US: STARZ IN BLACK
-http://www.magicoiptv.org:8080/said/said123/615
-#EXTINF:-1,US: STARZ KIDS&FAMILY
-http://www.magicoiptv.org:8080/said/said123/616
-#EXTINF:-1,US: STARZENCORE
-http://www.magicoiptv.org:8080/said/said123/617
-#EXTINF:-1,US: STARZENCORE ACTION
-http://www.magicoiptv.org:8080/said/said123/618
-#EXTINF:-1,US: STARZENCORE CLASSIC
-http://www.magicoiptv.org:8080/said/said123/619
-#EXTINF:-1,US: STARZENCORE FAMILY
-http://www.magicoiptv.org:8080/said/said123/620
-#EXTINF:-1,US: STARZENCORE SUSPENSE
-http://www.magicoiptv.org:8080/said/said123/621
-#EXTINF:-1,US: STARZENCORE WESTERNS
-http://www.magicoiptv.org:8080/said/said123/622
-#EXTINF:-1,US: Showtime 2
-http://www.magicoiptv.org:8080/said/said123/623
+https://iptvm3ulist.com/m3u/us05_iptvm3ulist_com_241221.m3u
+
 
 
 
