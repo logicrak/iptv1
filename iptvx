@@ -34,15 +34,17 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 http://185.236.229.21:9981/play/a05z
 #EXTINF:-1,TVCine Action
 http://185.236.229.21:9981/play/a04n
-#EXTINF:-1,RougeTV
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1, MotorCyclist 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 #EXTINF:-1,TasteMade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1,RougeTV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 ,JASMINE
 http://212.42.193.122:8888/play/a00o/index.m3u8
+#EXTINF:-1 Miami Latino
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1, FashionTV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
@@ -129,65 +131,10 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/6
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/9
 
 
-
-#EXTINF:0,XXX: Adulte FULL 1 HD
-http://paineliptv8.xyz:2082/389419/845472/21628
-#EXTINF:0,XXX: Adulte FULL 2 HD
-http://paineliptv8.xyz:2082/389419/845472/21627
-#EXTINF:0,XXX: Adulte FULL 3 HD
-http://paineliptv8.xyz:2082/389419/845472/21626
-#EXTINF:0,XXX: Adulte FULL 4
-http://paineliptv8.xyz:2082/389419/845472/21625
-#EXTINF:0,XXX: Adulte FULL 12 HD
-http://paineliptv8.xyz:2082/389419/845472/21621
-
-
-#EXTINF:0,XXX: Erotic 01
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29545
-#EXTINF:0,XXX: Erotic 02
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29544
-#EXTINF:0,XXX: Erotic 03
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29543
-#EXTINF:0,XXX: Erotic 04
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29542
-#EXTINF:0,XXX: Erotic 06
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29540
-#EXTINF:0,XXX: Erotic 07
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29539
-#EXTINF:0,XXX: Erotic 08
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29538
-
-#EXTINF:0,XXX: Hustler TV HD
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29526
-#EXTINF:0,XXX: Nubiles Casting.com
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29524
-#EXTINF:0,XXX: Private TV
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29522
-#EXTINF:0,XXX: Sexto Senso_Website : mrcrackpro.blogspot.com
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29520
-#EXTINF:0,XXX: Venus TV
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29517
-#EXTINF:0,XXX:  SINFULLXXX 01
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29514
-#EXTINF:0,XXX: SINFULLXXX 02_Website : iptvm3uadult.blogspot.com
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29513
-#EXTINF:0,XXX: Alba XXX-1
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29512
-#EXTINF:0,XXX: Alba XXX-2
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29511
-#EXTINF:0,XXX: Alba XXX-3
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29510
-#EXTINF:0,XXX: Alba XXX-4
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29509
-#EXTINF:0,XXX: Alba XXX-6
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29507
-#EXTINF:0,XXX: RedTraffic Threesome HD
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29501
-#EXTINF:0,XXX:  RedTraffic Teen HD
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/29500
-
-
-
+#EXTINF:0,Filmon 1
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:0,Filmon 2
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 #EXTINF:0,XXX: PIRATES
 http://mains.services:2086/live/mikekoot/1757909/66526.ts
